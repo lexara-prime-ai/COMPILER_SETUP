@@ -12,6 +12,8 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
+           DISPLAY "__START__"
            DISPLAY "Compilation Successful!"
+           DISPLAY "__END__"
            STOP RUN.
        END PROGRAM PROJECT-SETUP.
