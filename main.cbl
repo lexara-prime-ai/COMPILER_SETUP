@@ -1,7 +1,7 @@
       *****************************************************
       * Author: Irfan Ghat
       * Date: May 21, 2024
-      * Purposr: Display text
+      * Purpose: Display text
       * Tectonics: cobc
       ******************************************************
        IDENTIFICATION DIVISION.
